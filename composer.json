@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "illuminate/pagination": "^5.5"
+    }
+}
